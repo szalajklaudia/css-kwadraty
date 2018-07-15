@@ -1,0 +1,17 @@
+body {
+    background:gray;
+}
+
+h1{
+    color:white;
+    font-size:20px;
+    margin-left:14px;
+}
+
+.box {
+    width:100px;
+    height:100px;
+    background:orange;
+    margin:7px;
+    margin-left:20px;
+}
